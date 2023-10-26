@@ -168,8 +168,7 @@ h2,
 .featureDesc,
 .columnDesc,
 .inquiryDesc,
-.teamDesc,
-.locationDesc {
+.teamDesc {
 	color: hsl(0, 0%, 80%);
 }
 .btn,
